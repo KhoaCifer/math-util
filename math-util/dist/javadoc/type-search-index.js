@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.cifer.mathutil.main","l":"Main"},{"p":"com.cifer.mathutil.core","l":"MathUtil"}];updateSearchResults();

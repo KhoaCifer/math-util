@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.cifer.mathutil.core","c":"MathUtil","l":"getFactorial(int)"},{"p":"com.cifer.mathutil.main","c":"Main","l":"Main()","u":"%3Cinit%3E()"},{"p":"com.cifer.mathutil.main","c":"Main","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"com.cifer.mathutil.core","c":"MathUtil","l":"MathUtil()","u":"%3Cinit%3E()"}];updateSearchResults();
